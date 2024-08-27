@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning Fidel team</h1>
+   <h1> Thankyou, Happy Learning Fidel team changed for kubernates cid/cd test</h1>
 
   
 </form>
